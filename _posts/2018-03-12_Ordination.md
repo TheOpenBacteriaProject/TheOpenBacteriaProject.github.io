@@ -1,11 +1,17 @@
 ---
-output:
-  pdf_document: default
-  html_document: default
+layout: post
+title: Intro to ordination
+subtitle: Finding patterns in your data
+date: 2018-03-11 12:15:00
+author: Koenraad
+meta: "Tutorials"
+tags: data_manip, datavis
 ---
-<center><img src="{{ site.baseurl }}/tutheaderbl.png" alt="Img"></center>
-
-To add images, replace `tutheaderbl1.png` with the file name of any image you upload to your GitHub repository.
+<div class="block">
+	<center>
+		<img src="{{ site.baseurl }}/img/tutheaderordination.png" alt="Img">
+	</center>
+</div>
 
 ### Tutorial Aims
 
