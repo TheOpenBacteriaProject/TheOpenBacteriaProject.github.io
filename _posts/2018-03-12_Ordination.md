@@ -323,9 +323,8 @@ We can also provide some useful links, include a contact form and a way to send 
 
 For more on `vegan` and how to use it for multivariate analysis of ecological communities, read this <a href="http://cc.oulu.fi/~jarioksa/opetus/metodi/vegantutor.pdf" target="_blank">vegan tutorial</a>.
 
-Another good website to learn more about statistical analysis of ecological data is <a href="https://sites.google.com/site/mb3gustame/home" target="_blank">GUSTA ME</a>
+To make this tutorial, we borrowed from these websites: <a href="https://sites.google.com/site/mb3gustame/home" target="_blank">GUSTA ME</a> and <a href="http://ordination.okstate.edu/" target="_blank">Ordination methods for ecologists</a>
 
-To construct this tutorial We borrowed 
 
 <hr>
 <hr>
